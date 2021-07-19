@@ -26,4 +26,4 @@ $ pip install -r requirements.txt
 
 Vou sugerir duas opções caso você não queira executar o projeto no seu computador. A primeira sugestão é executar no Binder, faça um fork desse repositório, acesso o site do [Binder nesse link](https://mybinder.org) e informa a url do repositório. 
 
-Uma segunda sugestão é utilizar o Colab.
+Uma segunda sugestão é utilizar o [Google Colab](https://colab.research.google.com/).
