@@ -2,7 +2,9 @@ Alguns tópicos interessantes para documentar:
 
 - Gastos negativos
     - https://github.com/okfn-brasil/serenata-de-amor/pull/66
-    - [Negative expenses on the dataset](https://github.com/okfn-brasil/serenata-de-amor/issues/29)
+    - [Issue: Negative expenses on the dataset](https://github.com/okfn-brasil/serenata-de-amor/issues/29)
+        - [Documento com resposta sobre 'bilhete de compensação'](https://github.com/escola-de-dados/python-inovacao-civica/files/6850933/resposta.pdf)
+  
 
 - Reembolsos duplicados: recibos sendo usados em multiplos reembolsos.
     - [Issue: Detect multiple reimbursements using the same receip](https://github.com/okfn-brasil/serenata-de-amor/issues/32)
