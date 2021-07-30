@@ -1,0 +1,19 @@
+*.zip
+
+venv
+.env
+
+*.py[co]
+__pycache__
+*.egg-info
+.tox
+.DS_Store
+
+# IDE
+*.code-workspace
+
+# jupyter
+.ipynb_checkpoints
+
+reembolso-*/
+*.xz
