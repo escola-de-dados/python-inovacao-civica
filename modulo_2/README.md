@@ -22,4 +22,4 @@ Olá! Esse é o espaço com desafios e exercícios do módulo 2.
    - [x] Aula 9: Evoluindo nosso projeto: Criando um script Python
 - Desafios
    - [x] 1: extração, leitura e transformação
-   - [ ] 2: análises
+   - [x] 2: análises
