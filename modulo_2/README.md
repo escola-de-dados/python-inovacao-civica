@@ -2,28 +2,24 @@
 
 Olá! Esse é o espaço com desafios e exercícios do módulo 2. 
 
-## Configuração de ambiente local
 
-* Python >= 3.6 (Caso você não tenha essa versão, você pode usar o pyenv para instalar. Sugiro dar uma olhada [nesse artigo da Jéssica Temporal](https://jtemporal.com/pyenv-inicio/)).
-* `requirements.txt`: todas as bibliotecas que precisamos para os notebooks, estão listadas nesse arquivo. 
+## Arquivos:
 
-Para criar um ambiente virtual, execute:
-```
-$ python -m venv env
-```
-
-Para ativiar o ambiente virtual `env` que você acabou de criar:
-```
-$ source env/bin/activate
-```
-
-Para instalar as bibliotecas:
-```
-$ pip install -r requirements.txt
-```
-
-## Executando os notebooks no Binder ou Colab
-
-Vou sugerir duas opções caso você não queira executar o projeto no seu computador. A primeira sugestão é executar no Binder, faça um fork desse repositório, acesso o site do [Binder nesse link](https://mybinder.org) e informa a url do repositório. 
-
-Uma segunda sugestão é utilizar o [Google Colab](https://colab.research.google.com/).
+- requirements.txt: bibliotécas necessárias para o módulo
+- Colab **part-1**
+   - [x] Aula 2: Acessando os dados da CEAP via API
+   - [x] Aula 3: Lendo os dados com Pandas
+   - [x] Aula 4: Organizando e visualizando os dados 
+   - [x] Aula 7: Dados da Receita Federal
+   - [x] Aula 8: Receita Federal e CEAP
+- Colab **part-2**
+   - [x] Aula 5: Analisando os dados da CEAP
+- Colab **part-3**
+   - [ ] Aula 6: Conhecendo ferramentas para usar com a Rosie e o Jarbas
+- Colab **part-4**
+   - [x] Aula 11: Respondendo perguntas sobre nossos dados
+- Script pyhon
+   - [x] Aula 9: Evoluindo nosso projeto: Criando um script Python
+- Desafios
+   - [x] 1: extração, leitura e transformação
+   - [ ] 2: análises
