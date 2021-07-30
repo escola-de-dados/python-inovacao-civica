@@ -18,5 +18,8 @@ Alguns tópicos interessantes para documentar:
 
 - Read more
     - [ ] [Issue: net_value limits #135](https://github.com/okfn-brasil/serenata-de-amor/issues/135) 
+    - [ ] https://github.com/okfn-brasil/serenata-de-amor/pull/134
 
 - [Próximos passos para a Serenata na CEAP (maio/2018)](https://docs.google.com/document/d/1qjYHKr9FLAaDwI4VJeHbcWj4LKrAWBeHqrB6VqBLXi8/edit#)
+- https://www.camara.leg.br/cota-parlamentar/2016_Glossario_para_o_CotasNet.pdf
+- https://en.wikipedia.org/wiki/Net_(economics)
