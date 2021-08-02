@@ -1,6 +1,6 @@
 # python-inovacao-civica
 
-Olá! Este é o repositório do curso **Python para inovação cívida**. Aqui você encontrará os materiais complementares das aulas, e os notebooks dos desafios.
+Olá! Este é o repositório do curso **Python para inovação cívica**. Aqui você encontrará os materiais complementares das aulas, e os notebooks dos desafios.
 
 ## Organização do repositório
 
