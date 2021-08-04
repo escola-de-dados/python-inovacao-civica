@@ -21,8 +21,8 @@ Olá! Esse é o espaço com desafios e exercícios do módulo 1.
    - [] Aula 11: Correlação
    - [] Aula 12: Operações básicas com dados
    - [x] Aula 13: Operações básicas com dados: filtros e sort_values
-   - [x] Aula 14: Agrupamentos e funções matemáticas: operações com dados e apply
-   - [x] Aula 15: Agrupamentos e funções matemáticas: operações com dados e groupby
+   - [x] Aula 14: Operações com dados e apply
+   - [x] Aula 15: Operações com dados e groupby
    - [] Aula 16: Conheça o Perfil Político
 - Desafios
    - [x] 1: dicionário
