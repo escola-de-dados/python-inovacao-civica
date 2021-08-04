@@ -26,4 +26,4 @@ Olá! Esse é o espaço com desafios e exercícios do módulo 1.
    - [] Aula 16: Conheça o Perfil Político
 - Desafios
    - [x] 1: dicionário
-   - [x] 2: pré-processamento e nálise de dados
+   - [x] 2: pré-processamento e análise de dados
