@@ -1,6 +1,6 @@
 # Módulo 2: Análise exporatória de dados do Legislativo
 
-Olá! Esse é o espaço com desafios e exercícios do módulo 2. 
+Olá! Esse é o espaço com desafios e exercícios do módulo 2: Análise exporatória de dados do Legislativo
 
 
 ## Arquivos:
