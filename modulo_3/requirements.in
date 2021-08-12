@@ -1,4 +1,9 @@
-# Dependências do Querido Diário
+# Dependências dos exemplos das aulas
+requests
+beautifulsoup4
+selenium
+
+# Dependências do Querido Diário (raspadores e toolbox)
 awscli
 black
 boto3
@@ -19,8 +24,6 @@ SQLAlchemy
 spidermon[monitoring]
 wheel
 
-# Dependências dos exemplos das aulas
-requests
-beautifulsoup4
-selenium
-
+coverage
+python-magic
+jupyter
