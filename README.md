@@ -140,6 +140,7 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [x] Aula 9: Evoluindo nosso projeto: Criando um script Python  
 
 - **sort_values_bruto.ipynb**
+   - [x] Aula 10: Respondendo perguntas sobre nossos dados
 - **sort_values_limpo.ipynb**
    - [x] Aula 10: Respondendo perguntas sobre nossos dados
    - [ ] Aula 11: Introdução ao Github
