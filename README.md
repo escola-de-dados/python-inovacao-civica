@@ -166,7 +166,7 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
 - **projeto_inovacao**
    - [x] Aula 4: Por dentro do raspador do Querido Diário
    - [ ] Aula 5: Analisando páginas web - Inspecionando elementos
-   - [ ] Aula 6: Analisando páginas web - Inspecionando a rede
+   - [ ] Aula 6: Analisando páginas web - Inspecionando redes
    - [ ] Aula 7: Selecionando elementos com XPath
   
 - **exemplo.py**
