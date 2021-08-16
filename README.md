@@ -169,7 +169,7 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [ ] Aula 6: Analisando páginas web - Inspecionando a rede
    - [ ] Aula 7: Selecionando elementos com XPath
   
-- **exemplo.py**
+- **expressoes_regulares.py**
    - [x] Aula 8: Expressões regulares
  
 - **ba_caetite.py**
