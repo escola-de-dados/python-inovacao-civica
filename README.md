@@ -128,7 +128,7 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [x] Aula 7: Dados da Receita Federal
    
 - **desafio.ipynb**
-   - [x] Desafio: extração, leitura e transformação
+   - [x] Desafio: extração, leitura e transformação de dados
 
 
 # Semana 4
@@ -145,7 +145,7 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [ ] Aula 12: Salvando nosso projeto no Github
    
 - **desafio.ipynb**
-   - [x] Desafio: análises
+   - [x] Desafio: análises de dados
 
 
 # Semana 5
