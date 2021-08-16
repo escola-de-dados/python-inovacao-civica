@@ -8,24 +8,20 @@ O repositório possui esse `README.md` principal, e um diretório por semana do 
 
 ## Pré-configuração
 
-No Windows, a biblioteca `scrapy` necessita da instalação das [Ferramentas de
-Build do Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/#build-tools-for-visual-studio-2019)
-e ela é utilizada no projeto Querido Diário. Execute o instalador e durante
-a instalação, selecione a opção “Desenvolvimento para desktop com C++” e
-finalize o processo. A instalação tem cerca de 6GB... É bem simples mas
-demora :)
+No Windows, a biblioteca `scrapy` necessita da instalação das [Ferramentas de Build do Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/#build-tools-for-visual-studio-2019) e ela é utilizada no projeto Querido Diário. Execute o instalador e durante a instalação, selecione a opção “Desenvolvimento para desktop com C++” e finalize o processo. A instalação tem cerca de 6GB... É bem simples mas demora :)
 
 ## Configuração de ambiente local
 
 Nossa sugestão é que você configure um ambiente para todos os módulos, criando uma virtualenv geral, já que os módulos possuem biblotecas muito semelhantes entre si. Mas nada te impede de criar um ambiente para cada módulo isoladamente.
 
-* Python >= 3.7 (Caso você não tenha essa versão, você pode usar o pyenv para instalar. Você pode dar uma olhada [nesse artigo da Jéssica Temporal](https://jtemporal.com/pyenv-inicio/)).
+* Python >= 3.7 (Caso você não tenha essa versão, você pode usar o pyenv para instalar. Se for o seu caso, você pode conferir [esse artigo da Jéssica Temporal](https://jtemporal.com/pyenv-inicio/)).
 
-* Na raíz deste projeto existem dois arquivos: `requirements.txt` e `requirements.in`. Estes arquivos contêm as dependências (bibliotecas que precisamos para executar os códigos) para todo o curso e para usá-los siga as instruções a seguir:
+* Na raiz do projeto existem dois arquivos: `requirements.txt` e `requirements.in`. Estes arquivos contêm as dependências (bibliotecas que precisamos para executar os códigos) para todo o curso e para usá-los siga as instruções a seguir:
 
 Para criar um ambiente virtual, execute:
+
 ```
-$ python -m venv env
+$ python3 -m venv env
 ```
 
 Para ativar o ambiente virtual `env` que você acabou de criar:
@@ -38,32 +34,22 @@ Para instalar as bibliotecas:
 $ pip install -r requirements.txt
 ```
 
-Mas este arquivo é só para usar para este comando mesmo pois ele contém TODAS
-as dependências (incluindo dependências de dependências e dependências de
-dependências de dependências, e por aí vai hehehe). Se por curiosidade quiser
-saber a lista de bibliotecas que realmente utilizamos, veja o arquivo
-`requirements.in`.
+Recomendamos usar este arquivo pa mesmo pois ele contém TODAS as dependências (incluindo dependências de dependências e dependências de
+dependências de dependências, e por aí vai). Se por curiosidade quiser saber a lista de bibliotecas que realmente utilizamos diretamente, sem contar as dependências aninhadas, veja o arquivo `requirements.in`.
 
-
-Se tiver alguma dificuldade com essa instalação, nos envie o erro para que possamos ajudar. Também é possível tentar instalar as dependências a partir do `requirements.in` das seguintes formas:
+Se tiver alguma dificuldade com essa instalação, nos envie o erro para que possamos ajudar. Também é possível tentar instalar as dependências a partir do `requirements.in` da seguinte forma:
 
 ```
 $ pip install -r requirements.in
 ```
 
-Ou então instalando manualmente as bibliotecas que você precisa atualmente de forma manual que estão listadas no `requirements.in`.
+## Executando os notebooks 
 
-## Executando os notebooks no Colab ou Binder
+Para executar os códigos no seu computador, recomendamos o [Visual Studio Code](https://code.visualstudio.com/). Outra opção para trabalhar locamente é [Jupyter Notebook](https://jupyter.org/try)
 
-Vou sugerir duas opções caso você não queira executar o projeto no seu computador. A primeira sugestão é utilizar o [Google Colab](https://colab.research.google.com/). Você pode fazer o upload do notebook para o seu drive, e abrir via Google Colab. No módulo 0, na aula sobre *ferramentas para programar em python*, você pode encontrar o passo a passo de como usar o Google Colab.
+Há também a opção de utilizar notebooks online, como o [Google Colab](https://colab.research.google.com/). Você pode fazer o upload do notebook para o seu Drive e abrir via Google Colab. No módulo 0, na aula sobre *ferramentas para programar em Python*, você pode encontrar o passo a passo de como usar o Google Colab.
 
-A segunda sugestão é executar no Binder, faça um fork desse repositório, acesse o site do [Binder nesse link](https://mybinder.org) e informe a url do repositório.
-
-## Edição de código
-
-Para editar código, recomendamos o [Visual Studio Code](https://code.visualstudio.com/) (só dica mesmo, qualquer
-editor de texto serve).
-
+A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse repositório, acesse o site do [Binder nesse link](https://mybinder.org) e informe a URL do repositório.
 
 # Semana 0
 
@@ -86,12 +72,12 @@ editor de texto serve).
    - [x] Aula 8: Introdução a estatística
    - [x] Aula 9: Medidas de tendência central e dispersão
    - [x] Aula 10: Outliers e valores faltantes
-   - [] Aula 11: Correlação
+   - [ ] Aula 11: Correlação
    - [x] Aula 12: Operações básicas com dados
    - [x] Aula 13: Filter e sort_values
    - [x] Aula 14: Operações com dados e apply
    - [x] Aula 15: Operações com dados e groupby
-   - [] Aula 16: Conheça o Perfil Político
+   - [ ] Aula 16: Conheça o Perfil Político
 
 # Semana 3
 
@@ -110,8 +96,8 @@ editor de texto serve).
 - Script python
    - [x] Aula 8: Evoluindo nosso projeto: Criando um script Python
 - Desafios
-   - [x] 1: extração, leitura e transformação
-   - [x] 2: análises
+   - [x] Desafio 1: extração, leitura e transformação
+   - [x] Desafio 2: análises
 
 # Semana 5
 
@@ -140,5 +126,4 @@ editor de texto serve).
 - Desafios
    -
 
-Para realizar algumas atividades deste módulo, o navegador Google Chrome
-(ou variantes como Chromium) é necessário.
+Para realizar algumas atividades deste módulo, o navegador Google Chrome (ou variantes como Chromium) é necessário.
