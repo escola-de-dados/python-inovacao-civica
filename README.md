@@ -53,11 +53,29 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
 
 # Semana 0
 
+   - [ ] Aula 0: Apresentação do curso
+   - [ ] Aula 1: Inovação cívica e tecnologia no Brasil
+   - [ ] Aula 3: O maravilhoso mundo das tecnologias abertas
+   - [ ] Aula 4: Git e Github: Primeiros passos
+   - [ ] Aula 5: Introdução ao pensamento computacional
+   - [ ] Aula 6: Benefícios e aplicações práticas do pensamento computacional
+   - [ ] Aula 7: Como aprender linguagem de programação
+   - [ ] Aula 8: Linguagens do curso
+   - [ ] Aula 9: Configurar um ambiente de desenvolvimento local
+   - [ ] Aula 10: Ferramentas para programação em python
+   - [ ] Aula 11: Como funciona a internet
+   - [ ] Aula 12: Introdução a API
+   - [ ] Aula 13: Interagindo com APIs
+   
+- **desafio.ipynb**
+   - [x] Desafio: Como aprender linguagem de programação
+
+
 # Semana 1
 
 - **estrutura_controle.ipynb**
-   - [] Aula 1: Variáveis e tipos de dados
-   - [] Aula 2: Operadores
+   - [ ] Aula 1: Variáveis e tipos de dados
+   - [ ] Aula 2: Operadores
    - [x] Aula 3: Estrutura de controle
    - [x] Aula 4: Estrutura de repetição
 
@@ -65,6 +83,13 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [x] Aula 5: Pacotes
    - [x] Aula 6: Método readcsv
    - [x] Aula 7: Carregando tabelas
+  
+- **desafio.ipynb**
+   - [x] Desafio: Manipulando dados com python
+   
+- **desafio_gabarito.ipynb**
+   - [x] Resolução do desafio: Manipulando dados com python
+
 
 # Semana 2
 
@@ -78,52 +103,90 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [x] Aula 14: Operações com dados e apply
    - [x] Aula 15: Operações com dados e groupby
    - [ ] Aula 16: Conheça o Perfil Político
+   
+- **desafio.ipynb**
+   - [x] Desafio:
+
 
 # Semana 3
 
-- Colab **part-1**
+- **ceap_api.ipynb**
+   - [ ] Aula 1: Entendendo os dados da CEAP
    - [x] Aula 2: Acessando os dados da CEAP via API
+ 
+- **research.ipynb**
    - [x] Aula 3: Lendo os dados da CEAP com Pandas
-   - [x] Aula 4: Analisando os dados da CEAP
-   - [x] Aula 6: Dados da Receita Federal
-   - [x] Aula 7: Receita Federal e CEAP
-- Colab **part-2**
-   - [x] Aula 4: Analisando os dados da CEAP
-- Colab **part-3**
-   - [ ] Aula 5: Conhecendo ferramentas para usar com a Rosie e o Jarbas
-- Colab **part-4**
+  
+- **ceap_api.ipynb** 
+   - [x] Aula 4: Organizando e visualizando dados
+
+- **estatistica.ipynb**
+   - [x] Aula 5: Analisando os dados da CEAP
+   - [ ] Aula 6: Conhecendo ferramentas para usar com a Rosie e o Jarbas
+  
+- **merge.ipynb**
+   - [x] Aula 7: Dados da Receita Federal
+   
+- **desafio.ipynb**
+   - [x] Desafio: extração, leitura e transformação
+
+
+# Semana 4
+
+- **merge.ipynb**
+   - [x] Aula 8: Receita Federal e CEAP
+   
+- **script.py**
+   - [x] Aula 9: Evoluindo nosso projeto: Criando um script Python  
+
+- **respondendo_perguntas.ipynb**
    - [x] Aula 10: Respondendo perguntas sobre nossos dados
-- Script python
-   - [x] Aula 8: Evoluindo nosso projeto: Criando um script Python
-- Desafios
-   - [x] Desafio 1: extração, leitura e transformação
-   - [x] Desafio 2: análises
+   - [ ] Aula 11: Introdução ao Github
+   - [ ] Aula 12: Salvando nosso projeto no Github
+   
+- **desafio.ipynb**
+   - [x] Desafio: análises
+
 
 # Semana 5
 
 - **api_qd.py**
+   - [ ] Aula 1: Apresentando o Querido Diário
    - [x] Aula 2: Por dentro do Querido Diário
-- **classes.py**
-   - [x] Aula 3: Introdução a Orientação a Objetos
-- **heranca.py**
-   - [x] Aula 3: Introdução a Orientação a Objetos
-- **sobreposicao.py**
-   - [x] Aula 3: Introdução a Orientação a Objetos
+  
 - **variaveis_funcoes.py**
    - [x] Aula 3: Introdução a Orientação a Objetos
+  
+- **classes.py**
+   - [x] Aula 3: Introdução a Orientação a Objetos
+   
+- **heranca.py**
+   - [x] Aula 3: Introdução a Orientação a Objetos
+ 
+- **sobreposicao.py**
+   - [x] Aula 3: Introdução a Orientação a Objetos
+
 - **projeto_inovacao**
    - [x] Aula 4: Por dentro do raspador do Querido Diário
+   - [ ] Aula 5: Analisando páginas web - Inspecionando elementos
+   - [ ] Aula 6: Analisando páginas web - Inspecionando a rede
+   - [ ] Aula 7: Selecionando elementos com XPath
+  
 - **exemplo.py**
    - [x] Aula 8: Expressões regulares
+ 
 - **ba_caetite.py**
    - [x] Aula 9: Traduzindo a análise para um raspador
+ 
 - **caetite.py**
    - [x] Aula 10: Indo além
+
 - **caetite_selenium.py**
    - [x] Aula 10: Indo além
+
 - **extract_text_with_apache_tika.ipynb**
    - [x] Aula 10: Indo além
-- Desafios
-   -
+  
+   
 
 Para realizar algumas atividades deste módulo, o navegador Google Chrome (ou variantes como Chromium) é necessário.
