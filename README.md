@@ -4,22 +4,31 @@ Olá! Este é o repositório do curso **Python para inovação cívica**. Aqui v
 
 ## Organização do repositório
 
-O repositório possui esse `README.md` principal, e um diretório por semana do curso. 
+O repositório possui esse `README.md` principal, e um diretório por semana do curso.
+
+## Pré-configuração
+
+No Windows, a biblioteca `scrapy` necessita da instalação das [Ferramentas de
+Build do Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/#build-tools-for-visual-studio-2019)
+e ela é utilizada no projeto Querido Diário. Execute o instalador e durante
+a instalação, selecione a opção “Desenvolvimento para desktop com C++” e
+finalize o processo. A instalação tem cerca de 6GB... É bem simples mas
+demora :)
 
 ## Configuração de ambiente local
 
-Nossa sugestão é que você configure um ambiente para todos os módulos, criando uma virtualenv geral, já que os módulos possuem biblotecas muito semelhantes entre si. Mas nada te impede de criar um ambiente para cada módulo isoladamente.  
+Nossa sugestão é que você configure um ambiente para todos os módulos, criando uma virtualenv geral, já que os módulos possuem biblotecas muito semelhantes entre si. Mas nada te impede de criar um ambiente para cada módulo isoladamente.
 
 * Python >= 3.7 (Caso você não tenha essa versão, você pode usar o pyenv para instalar. Você pode dar uma olhada [nesse artigo da Jéssica Temporal](https://jtemporal.com/pyenv-inicio/)).
 
-* `requirements.txt`: cada diretório possúi um arquivo `requirements.txt`, informando todas as bibliotecas necessárias para os notebooks (iremos reunir todos eles em um só em breve, aguarde.)
+* Na raíz deste projeto existem dois arquivos: `requirements.txt` e `requirements.in`. Estes arquivos contêm as dependências (bibliotecas que precisamos para executar os códigos) para todo o curso e para usá-los siga as instruções a seguir:
 
 Para criar um ambiente virtual, execute:
 ```
 $ python -m venv env
 ```
 
-Para ativiar o ambiente virtual `env` que você acabou de criar:
+Para ativar o ambiente virtual `env` que você acabou de criar:
 ```
 $ source env/bin/activate
 ```
@@ -29,11 +38,32 @@ Para instalar as bibliotecas:
 $ pip install -r requirements.txt
 ```
 
+Mas este arquivo é só para usar para este comando mesmo pois ele contém TODAS
+as dependências (incluindo dependências de dependências e dependências de
+dependências de dependências, e por aí vai hehehe). Se por curiosidade quiser
+saber a lista de bibliotecas que realmente utilizamos, veja o arquivo
+`requirements.in`.
+
+
+Se tiver alguma dificuldade com essa instalação, nos envie o erro para que possamos ajudar. Também é possível tentar instalar as dependências a partir do `requirements.in` das seguintes formas:
+
+```
+$ pip install -r requirements.in
+```
+
+Ou então instalando manualmente as bibliotecas que você precisa atualmente de forma manual que estão listadas no `requirements.in`.
+
 ## Executando os notebooks no Colab ou Binder
 
 Vou sugerir duas opções caso você não queira executar o projeto no seu computador. A primeira sugestão é utilizar o [Google Colab](https://colab.research.google.com/). Você pode fazer o upload do notebook para o seu drive, e abrir via Google Colab. No módulo 0, na aula sobre *ferramentas para programar em python*, você pode encontrar o passo a passo de como usar o Google Colab.
 
-A segunda sugestão é executar no Binder, faça um fork desse repositório, acesse o site do [Binder nesse link](https://mybinder.org) e informe a url do repositório. 
+A segunda sugestão é executar no Binder, faça um fork desse repositório, acesse o site do [Binder nesse link](https://mybinder.org) e informe a url do repositório.
+
+## Edição de código
+
+Para editar código, recomendamos o [Visual Studio Code](https://code.visualstudio.com/) (só dica mesmo, qualquer
+editor de texto serve).
+
 
 # Semana 0
 
@@ -77,45 +107,38 @@ A segunda sugestão é executar no Binder, faça um fork desse repositório, ace
    - [ ] Aula 5: Conhecendo ferramentas para usar com a Rosie e o Jarbas
 - Colab **part-4**
    - [x] Aula 10: Respondendo perguntas sobre nossos dados
-- Script pyhon
+- Script python
    - [x] Aula 8: Evoluindo nosso projeto: Criando um script Python
 - Desafios
    - [x] 1: extração, leitura e transformação
    - [x] 2: análises
 
-# Semana 4
+# Semana 5
 
-## Instruções iniciais
+- **api_qd.py**
+   - [x] Aula 2: Por dentro do Querido Diário
+- **classes.py**
+   - [x] Aula 3: Introdução a Orientação a Objetos
+- **heranca.py**
+   - [x] Aula 3: Introdução a Orientação a Objetos
+- **sobreposicao.py**
+   - [x] Aula 3: Introdução a Orientação a Objetos
+- **variaveis_funcoes.py**
+   - [x] Aula 3: Introdução a Orientação a Objetos
+- **projeto_inovacao**
+   - [x] Aula 4: Por dentro do raspador do Querido Diário
+- **exemplo.py**
+   - [x] Aula 8: Expressões regulares
+- **ba_caetite.py**
+   - [x] Aula 9: Traduzindo a análise para um raspador
+- **caetite.py**
+   - [x] Aula 10: Indo além
+- **caetite_selenium.py**
+   - [x] Aula 10: Indo além
+- **extract_text_with_apache_tika.ipynb**
+   - [x] Aula 10: Indo além
+- Desafios
+   -
 
-Aqui, todos os arquivos de código das videoaulas estão disponíveis e organizados
-por pasta referente a respectiva aula.
-
-Para editar código, recomendamos o Visual Studio Code (só dica mesmo, qualquer
-editor de texto serve).
-
-Para realizar algumas atividades do curso, o navegador Google Chrome
+Para realizar algumas atividades deste módulo, o navegador Google Chrome
 (ou variantes como Chromium) é necessário.
-
-## Pré-instalação
-
-No Windows, a biblioteca `scrapy` necessita da instalação das [Ferramentas de
-Build do Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/#build-tools-for-visual-studio-2019).
-Execute o instalador e durante a instalação, selecione a opção
-“Desenvolvimento para desktop com C++” e finalize o processo. A instalação
-tem cerca de 6GB... É bem simples mas demora :)
-
-## Instalação
-
-Para executar a maioria dos códigos, é necessário instalar as dependências
-especificadas no arquivo `requirements.txt` com o comando (preferencialmente
-com um ambiente virtual criado):
-
-```sh
-$ pip install -r requirements.txt
-```
-
-Mas este arquivo é só para usar para este comando mesmo pois ele contém TODAS
-as dependências (incluindo dependências de dependências e dependências de
-dependências de dependências, e por aí vai hehehe). Se por curiosidade quiser
-saber a lista de bibliotecas que realmente utilizamos, veja o arquivo
-`requirements.in`.
