@@ -1,9 +1,16 @@
 # Dependências dos exemplos das aulas
-requests
-beautifulsoup4
-selenium
+beautifulsoup4  # M3
+ipywidgets  # M1
+jupyter  # M1, M2 e M3
+matplotlib  # M1
+numpy  # M1
+pandas  # M1 e M2
+requests  # M2 e M3
+selenium  # M3
+zipp  # M2
+pandas-profiling  # M1
 
-# Dependências do Querido Diário (raspadores e toolbox)
+# Mais dependências por conta do Querido Diário (raspadores e toolbox)
 awscli
 black
 boto3
@@ -23,7 +30,5 @@ schematics
 SQLAlchemy
 spidermon[monitoring]
 wheel
-
 coverage
 python-magic
-jupyter
