@@ -68,7 +68,7 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [ ] Aula 13: Interagindo com APIs
    
 - **desafio.ipynb**
-   - [x] Desafio: Como aprender linguagem de programação
+   - [x] Desafio: Como aprender linguagens de programação
 
 
 # Semana 1
