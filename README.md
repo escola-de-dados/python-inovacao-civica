@@ -128,7 +128,7 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [x] Aula 7: Dados da Receita Federal
    
 - **desafio.ipynb**
-   - [x] Desafio: extração, leitura e transformação de dados
+   - [x] Desafio: Extração, leitura e transformação de dados
 
 
 # Semana 4
@@ -140,13 +140,15 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [x] Aula 9: Evoluindo nosso projeto: Criando um script Python  
 
 - **sort_values_bruto.ipynb**
+   - [x] Aula 10: Respondendo perguntas sobre nossos dados
 - **sort_values_limpo.ipynb**
    - [x] Aula 10: Respondendo perguntas sobre nossos dados
    - [ ] Aula 11: Introdução ao Github
    - [ ] Aula 12: Salvando nosso projeto no Github
+   - [ ] Aula 13: Por dentro do Serenata de Amor
    
 - **desafio.ipynb**
-   - [x] Desafio: análises de dados
+   - [x] Desafio: Análises de dados
 
 
 # Semana 5
