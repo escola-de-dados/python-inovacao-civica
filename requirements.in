@@ -1,0 +1,34 @@
+# Dependências dos exemplos das aulas
+beautifulsoup4  # M3
+ipywidgets  # M1
+jupyter  # M1, M2 e M3
+matplotlib  # M1
+numpy  # M1
+pandas  # M1 e M2
+requests  # M2 e M3
+selenium  # M3
+zipp  # M2
+pandas-profiling  # M1
+
+# Mais dependências por conta do Querido Diário (raspadores e toolbox)
+awscli
+black
+boto3
+chompjs
+dateparser
+flake8
+isort
+itemadapter
+jinja2
+pip-tools
+pre-commit
+psycopg2-binary
+python-dateutil
+python-decouple
+scrapy
+schematics
+SQLAlchemy
+spidermon[monitoring]
+wheel
+coverage
+python-magic
