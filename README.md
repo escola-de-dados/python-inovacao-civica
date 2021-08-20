@@ -130,6 +130,9 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
 - **merge.ipynb**
    - [x] Aula 7: Dados da Receita Federal
 
+- **desafio.ipynb**
+   - [x] Desafio: Extração, leitura e transformação de dados
+
 
 # Semana 4
 
