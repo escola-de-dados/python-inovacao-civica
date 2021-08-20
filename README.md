@@ -107,6 +107,9 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
 - **desafio.ipynb**
    - [x] Desafio: Limpeza de dados e estatística descritiva
 
+- **desafio_gabarito.ipynb**
+   - [x] Resolução do desafio: Limpeza de dados e estatística descritiva
+
 
 # Semana 3
 
