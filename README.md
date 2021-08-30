@@ -132,6 +132,9 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
 
 - **desafio.ipynb**
    - [x] Desafio: Extração, leitura e transformação de dados
+   
+- **desafio_gabarito.ipynb**
+   - [x] Resolução do desafio: Extração, leitura e transformação de dados
 
 
 # Semana 4
