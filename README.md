@@ -132,6 +132,9 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
 
 - **desafio.ipynb**
    - [x] Desafio: Extração, leitura e transformação de dados
+   
+- **desafio_gabarito.ipynb**
+   - [x] Resolução do desafio: Extração, leitura e transformação de dados
 
 
 # Semana 4
@@ -149,6 +152,12 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [ ] Aula 11: Introdução ao Github
    - [ ] Aula 12: Salvando nosso projeto no Git
    - [ ] Aula 13: Por dentro do Serenata de Amor
+ 
+ **desafio1.ipynb**
+   - [x] Desafio: Cruzamento dos dados da CEAP com os dados da Receita Federal
+   
+ **desafio2.ipynb**
+   - [x] Desafio: Webscraping simples
 
 
 # Semana 5
