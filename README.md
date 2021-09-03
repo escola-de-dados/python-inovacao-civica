@@ -158,6 +158,7 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
  
 - **scraping.ipynb**
    - [x] Introdução a webscraping com Pandas
+   - [ ] Resolusão do desafio: Webscraping simples
    
 - **desafio2.ipynb**
    - [x] Desafio: Webscraping simples
