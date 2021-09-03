@@ -155,6 +155,9 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
  
 - **desafio1.ipynb**
    - [x] Desafio: Cruzamento dos dados da CEAP com os dados da Receita Federal
+
+**desafio1_gabarito.ipynb**
+   - [x] Resolução do desafio: Cruzamento dos dados da CEAP com os dados da Receita Federal
  
 - **scraping.ipynb**
    - [x] Introdução a webscraping com Pandas
