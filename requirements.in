@@ -6,6 +6,7 @@ matplotlib  # M1
 numpy  # M1
 pandas  # M1 e M2
 requests  # M2 e M3
+requests-html  # M2 e M3
 selenium  # M3
 zipp  # M2
 pandas-profiling  # M1
