@@ -153,10 +153,13 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [ ] Aula 12: Salvando nosso projeto no Git
    - [ ] Aula 13: Por dentro do Serenata de Amor
  
- **desafio1.ipynb**
+- **desafio1.ipynb**
    - [x] Desafio: Cruzamento dos dados da CEAP com os dados da Receita Federal
+ 
+- **scraping.ipynb**
+   - [x] Introdução a webscraping com Pandas
    
- **desafio2.ipynb**
+- **desafio2.ipynb**
    - [x] Desafio: Webscraping simples
 
 
