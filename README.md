@@ -43,7 +43,7 @@ Se tiver alguma dificuldade com essa instalação, nos envie o erro para que pos
 $ pip install -r requirements.in
 ```
 
-## Executando os notebooks 
+## Executando os notebooks
 
 Para executar os códigos no seu computador, recomendamos o [Visual Studio Code](https://code.visualstudio.com/). Outra opção para trabalhar locamente é [Jupyter Notebook](https://jupyter.org/try)
 
@@ -66,7 +66,7 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [ ] Aula 11: Como funciona a internet
    - [ ] Aula 12: Introdução a API
    - [ ] Aula 13: Interagindo com APIs
-   
+
 - **desafio.ipynb**
    - [x] Desafio: Como aprender linguagens de programação
 
@@ -83,10 +83,10 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [x] Aula 5: Pacotes
    - [x] Aula 6: Método readcsv
    - [x] Aula 7: Carregando tabelas
-  
+
 - **desafio.ipynb**
    - [x] Desafio: Manipulando dados com python
-   
+
 - **desafio_gabarito.ipynb**
    - [x] Resolução do desafio: Manipulando dados com python
 
@@ -103,7 +103,7 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [x] Aula 14: Operações com dados e apply
    - [x] Aula 15: Operações com dados e groupby
    - [ ] Aula 16: Conheça o Perfil Político
-   
+
 - **desafio.ipynb**
    - [x] Desafio: Limpeza de dados e estatística descritiva
 
@@ -116,23 +116,23 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
 - **ceap_api.ipynb**
    - [ ] Aula 1: Entendendo os dados da CEAP
    - [x] Aula 2: Acessando os dados da CEAP via API
- 
+
 - **lendo_dados.ipynb**
    - [x] Aula 3: Lendo os dados da CEAP com Pandas
-  
-- **ceap_api.ipynb** 
+
+- **ceap_api.ipynb**
    - [x] Aula 4: Organizando e visualizando dados
 
 - **estatistica.ipynb**
    - [x] Aula 5: Analisando os dados da CEAP
    - [ ] Aula 6: Conhecendo ferramentas para usar com a Rosie e o Jarbas
-  
+
 - **merge.ipynb**
    - [x] Aula 7: Dados da Receita Federal
 
 - **desafio.ipynb**
    - [x] Desafio: Extração, leitura e transformação de dados
-   
+
 - **desafio_gabarito.ipynb**
    - [x] Resolução do desafio: Extração, leitura e transformação de dados
 
@@ -141,9 +141,9 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
 
 - **merge.ipynb**
    - [x] Aula 8: Receita Federal e CEAP
-   
+
 - **script.py**
-   - [x] Aula 9: Evoluindo nosso projeto: Criando um script Python  
+   - [x] Aula 9: Evoluindo nosso projeto: Criando um script Python
 
 - **sort_values_bruto.ipynb**
    - [x] Aula 10: Respondendo perguntas sobre nossos dados
@@ -152,13 +152,17 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [ ] Aula 11: Introdução ao Github
    - [ ] Aula 12: Salvando nosso projeto no Git
    - [ ] Aula 13: Por dentro do Serenata de Amor
- 
+
 - **desafio1.ipynb**
    - [x] Desafio: Cruzamento dos dados da CEAP com os dados da Receita Federal
- 
+
+**desafio1_gabarito.ipynb**
+   - [x] Resolução do desafio: Cruzamento dos dados da CEAP com os dados da Receita Federal
+
 - **scraping.ipynb**
    - [x] Introdução a webscraping com Pandas
-   
+   - [ ] Resolusão do desafio: Webscraping simples
+
 - **desafio2.ipynb**
    - [x] Desafio: Webscraping simples
 
@@ -168,16 +172,16 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
 - **api_qd.py**
    - [ ] Aula 1: Apresentando o Querido Diário
    - [x] Aula 2: Por dentro do Querido Diário
-  
+
 - **variaveis_funcoes.py**
    - [x] Aula 3: Introdução a Orientação a Objetos
-  
+
 - **classes.py**
    - [x] Aula 3: Introdução a Orientação a Objetos
-   
+
 - **heranca.py**
    - [x] Aula 3: Introdução a Orientação a Objetos
- 
+
 - **sobreposicao.py**
    - [x] Aula 3: Introdução a Orientação a Objetos
 
@@ -186,13 +190,13 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [ ] Aula 5: Analisando páginas web - Inspecionando elementos
    - [ ] Aula 6: Analisando páginas web - Inspecionando a rede
    - [ ] Aula 7: Selecionando elementos com XPath
-  
+
 - **expressoes_regulares.py**
    - [x] Aula 8: Expressões regulares
- 
+
 - **ba_caetite.py**
    - [x] Aula 9: Traduzindo a análise para um raspador
- 
+
 - **caetite.py**
    - [x] Aula 10: Indo além
 
@@ -201,7 +205,13 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
 
 - **extract_text_with_apache_tika.ipynb**
    - [x] Aula 10: Indo além
-  
-   
+
+- **desafio/desafio1.ipynb**
+   - [x] Desafio: Licitações da Secretaria de Educação de São Paulo no Portal de Compras Federal
+
+- **desafio/desafio2.ipynb**
+   - [x] Desafio: Licitações publicadas hoje no Diário Oficial da União
+
+
 
 Para realizar algumas atividades deste módulo, o navegador Google Chrome (ou variantes como Chromium) é necessário.
