@@ -119,10 +119,7 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [X] Aula 4: Organizando e visualizando dados
    - [X] Aula 5: Analisando os dados da CEAP
    - [ ] Aula 6: Conhecendo ferramentas para usar com a Rosie e o Jarbas
-   - [ ] Aula 7: Dados da Receita Federal
-
-- **merge.ipynb**
-   - [x] Aula 7: Dados da Receita Federal
+   - [X] Aula 7: Dados da Receita Federal
 
 - **desafio.ipynb**
    - [x] Desafio: Extração, leitura e transformação de dados
