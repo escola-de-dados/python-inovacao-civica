@@ -7,7 +7,6 @@ Olá! Este é o repositório do curso **Python para inovação cívica**. Aqui v
 O repositório possui esse `README.md` principal, e um diretório por semana do curso.
 
 ## Pré-configuração
-
 No Windows, a biblioteca `scrapy` necessita da instalação das [Ferramentas de Build do Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/#build-tools-for-visual-studio-2019) e ela é utilizada no projeto Querido Diário. Execute o instalador e durante a instalação, selecione a opção “Desenvolvimento para desktop com C++” e finalize o processo. A instalação tem cerca de 6GB... É bem simples mas demora :)
 
 ## Configuração de ambiente local
@@ -116,19 +115,11 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
 - **ceap_api.ipynb**
    - [ ] Aula 1: Entendendo os dados da CEAP
    - [x] Aula 2: Acessando os dados da CEAP via API
-
-- **lendo_dados.ipynb**
    - [x] Aula 3: Lendo os dados da CEAP com Pandas
-
-- **ceap_api.ipynb**
-   - [x] Aula 4: Organizando e visualizando dados
-
-- **estatistica.ipynb**
-   - [x] Aula 5: Analisando os dados da CEAP
+   - [X] Aula 4: Organizando e visualizando dados
+   - [X] Aula 5: Analisando os dados da CEAP
    - [ ] Aula 6: Conhecendo ferramentas para usar com a Rosie e o Jarbas
-
-- **merge.ipynb**
-   - [x] Aula 7: Dados da Receita Federal
+   - [X] Aula 7: Dados da Receita Federal
 
 - **desafio.ipynb**
    - [x] Desafio: Extração, leitura e transformação de dados
