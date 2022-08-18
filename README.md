@@ -87,7 +87,7 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [x] Desafio: Manipulando dados com python
 
 - **desafio_gabarito.ipynb**
-   - [x] Resolução do desafio: Manipulando dados com python
+   - [ ] Resolução do desafio: Manipulando dados com python
 
 
 # Semana 2
@@ -107,7 +107,7 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [x] Desafio: Limpeza de dados e estatística descritiva
 
 - **desafio_gabarito.ipynb**
-   - [x] Resolução do desafio: Limpeza de dados e estatística descritiva
+   - [ ] Resolução do desafio: Limpeza de dados e estatística descritiva
 
 
 # Semana 3
@@ -125,7 +125,7 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [x] Desafio: Extração, leitura e transformação de dados
 
 - **desafio_gabarito.ipynb**
-   - [x] Resolução do desafio: Extração, leitura e transformação de dados
+   - [ ] Resolução do desafio: Extração, leitura e transformação de dados
 
 
 # Semana 4
@@ -145,17 +145,17 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [ ] Aula 13: Por dentro do Serenata de Amor
 
 - **desafio1.ipynb**
-   - [x] Desafio: Cruzamento dos dados da CEAP com os dados da Receita Federal
+   - [ ] Desafio: Cruzamento dos dados da CEAP com os dados da Receita Federal
 
 **desafio1_gabarito.ipynb**
    - [x] Resolução do desafio: Cruzamento dos dados da CEAP com os dados da Receita Federal
 
 - **scraping.ipynb**
    - [x] Introdução a webscraping com Pandas
-   - [ ] Resolusão do desafio: Webscraping simples
 
 - **desafio2.ipynb**
-   - [x] Desafio: Webscraping simples
+   - [ ] Desafio: Webscraping simples
+   - [ ] Resolução do desafio: Webscraping simples
 
 
 # Semana 5
@@ -198,10 +198,10 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [x] Aula 10: Indo além
 
 - **desafio/desafio1.ipynb**
-   - [x] Desafio: Licitações da Secretaria de Educação de São Paulo no Portal de Compras Federal
+   - [ ] Desafio: Licitações da Secretaria de Educação de São Paulo no Portal de Compras Federal
 
 - **desafio/desafio2.ipynb**
-   - [x] Desafio: Licitações publicadas hoje no Diário Oficial da União
+   - [ ] Desafio: Licitações publicadas hoje no Diário Oficial da União
 
 
 
