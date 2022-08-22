@@ -84,11 +84,10 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [x] Aula 7: Carregando tabelas
 
 - **desafio.ipynb**
-   - [x] Desafio: Manipulando dados com python
+   - [ ] Desafio
 
 - **desafio_gabarito.ipynb**
-   - [ ] Resolução do desafio: Manipulando dados com python
-
+   - [ ] Resolução do desafio
 
 # Semana 2
 
@@ -104,11 +103,10 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [ ] Aula 16: Conheça o Perfil Político
 
 - **desafio.ipynb**
-   - [x] Desafio: Limpeza de dados e estatística descritiva
+   - [ ] Desafio
 
 - **desafio_gabarito.ipynb**
-   - [ ] Resolução do desafio: Limpeza de dados e estatística descritiva
-
+   - [ ] Resolução do desafio
 
 # Semana 3
 
