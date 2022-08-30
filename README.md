@@ -84,7 +84,7 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [x] Aula 7: Carregando tabelas
 
 - **desafio.ipynb**
-   - [ ] Desafio
+   - [x] Desafio
 
 - **desafio_gabarito.ipynb**
    - [ ] Resolução do desafio
@@ -103,7 +103,7 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [ ] Aula 16: Conheça o Perfil Político
 
 - **desafio.ipynb**
-   - [ ] Desafio
+   - [x] Desafio
 
 - **desafio_gabarito.ipynb**
    - [ ] Resolução do desafio
