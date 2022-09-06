@@ -68,6 +68,8 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
 
 - **desafio.ipynb**
    - [x] Desafio: Como aprender linguagens de programação
+- **desafio_gabarito.ipynb**
+   - [x] Resolução do desafio: Como aprender linguagens de programação
 
 
 # Semana 1
