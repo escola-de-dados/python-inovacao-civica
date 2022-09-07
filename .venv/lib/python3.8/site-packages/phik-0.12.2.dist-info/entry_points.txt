@@ -1,0 +1,2 @@
+[console_scripts]
+phik_trial = phik.entry_points:phik_trial

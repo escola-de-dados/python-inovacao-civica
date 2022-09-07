@@ -1,0 +1,55 @@
+Metadata-Version: 2.1
+Name: spidermon
+Version: 1.16.2
+Summary: Spidermon is a framework to build monitors for Scrapy spiders.
+Home-page: https://github.com/scrapinghub/spidermon
+Author: Zyte
+Author-email: opensource@zyte.com
+License: BSD
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Framework :: Scrapy
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: System :: Monitoring
+Requires-Python: >=3.6
+License-File: LICENSE
+Requires-Dist: jsonschema[format] (==3.2.0)
+Requires-Dist: python-slugify
+Provides-Extra: docs
+Requires-Dist: sphinx ; extra == 'docs'
+Requires-Dist: sphinx-rtd-theme ; extra == 'docs'
+Requires-Dist: s3cmd ; extra == 'docs'
+Provides-Extra: monitoring
+Requires-Dist: scrapy ; extra == 'monitoring'
+Requires-Dist: Jinja2 ; extra == 'monitoring'
+Requires-Dist: slackclient ; extra == 'monitoring'
+Requires-Dist: boto ; extra == 'monitoring'
+Requires-Dist: boto3 ; extra == 'monitoring'
+Requires-Dist: premailer ; extra == 'monitoring'
+Requires-Dist: sentry-sdk ; extra == 'monitoring'
+Provides-Extra: pep8
+Requires-Dist: black ; extra == 'pep8'
+Provides-Extra: tests
+Requires-Dist: pytest (>=2.7.0) ; extra == 'tests'
+Requires-Dist: pytest-cov ; extra == 'tests'
+Requires-Dist: pytest-mock ; extra == 'tests'
+Requires-Dist: jinja2 ; extra == 'tests'
+Requires-Dist: lxml ; extra == 'tests'
+Requires-Dist: premailer ; extra == 'tests'
+Requires-Dist: scrapy ; extra == 'tests'
+Requires-Dist: slackclient ; extra == 'tests'
+Requires-Dist: twisted (>=19.7.0) ; extra == 'tests'
+Provides-Extra: validation
+Requires-Dist: schematics ; extra == 'validation'
+
+Spidermon is a framework to build monitors for Scrapy spiders.
+
