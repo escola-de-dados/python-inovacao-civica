@@ -198,10 +198,8 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [x] Aula 10: Indo além
 
 - **desafio/desafio1.ipynb**
-   - [x] Desafio: Licitações da Secretaria de Educação de São Paulo no Portal de Compras Federal
+   - [x] Desafio: Wikipédia com XPath
 
-- **desafio/desafio2.ipynb**
-   - [x] Desafio: Licitações publicadas hoje no Diário Oficial da União
 
 
 
