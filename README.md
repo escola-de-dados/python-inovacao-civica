@@ -155,7 +155,7 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
 
 - **desafio2.ipynb**
    - [x] Desafio: Webscraping simples
-   - [ ] Resolução do desafio: Webscraping simples
+   - [x] Resolução do desafio: Webscraping simples
 
 
 # Semana 5
