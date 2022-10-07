@@ -199,6 +199,7 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
 
 - **desafio/desafio1.ipynb**
    - [x] Desafio: Wikipédia com XPath
+   - [x] Resolução do desafio: Wikipédia com XPath
 
 
 
