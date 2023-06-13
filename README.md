@@ -69,7 +69,7 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
 - **desafio.ipynb**
    - [x] Desafio: Como aprender linguagens de programação
 - **desafio_gabarito.ipynb**
-   - [x] Resolução do desafio: Como aprender linguagens de programação
+   - [ ] Resolução do desafio: Como aprender linguagens de programação
 
 
 # Semana 1
@@ -89,7 +89,7 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [x] Desafio
 
 - **desafio_gabarito.ipynb**
-   - [x] Resolução do desafio
+   - [ ] Resolução do desafio
 
 # Semana 2
 
@@ -108,7 +108,7 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [x] Desafio
 
 - **desafio_gabarito.ipynb**
-   - [x] Resolução do desafio
+   - [ ] Resolução do desafio
 
 # Semana 3
 
@@ -125,7 +125,7 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [x] Desafio: Extração, leitura e transformação de dados
 
 - **desafio_gabarito.ipynb**
-   - [x] Resolução do desafio: Extração, leitura e transformação de dados
+   - [ ] Resolução do desafio: Extração, leitura e transformação de dados
 
 
 # Semana 4
@@ -148,14 +148,14 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [x] Desafio: Cruzamento dos dados da CEAP com os dados da Receita Federal
 
 **desafio1_gabarito.ipynb**
-   - [x] Resolução do desafio: Cruzamento dos dados da CEAP com os dados da Receita Federal
+   - [ ] Resolução do desafio: Cruzamento dos dados da CEAP com os dados da Receita Federal
 
 - **scraping.ipynb**
    - [x] Introdução a webscraping com Pandas
 
 - **desafio2.ipynb**
    - [x] Desafio: Webscraping simples
-   - [x] Resolução do desafio: Webscraping simples
+   - [ ] Resolução do desafio: Webscraping simples
 
 
 # Semana 5
@@ -199,13 +199,13 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
 
 - **desafio/desafio1.ipynb**
    - [x] Desafio: Wikipédia com XPath
-   - [x] Resolução do desafio: Wikipédia com XPath
+   - [ ] Resolução do desafio: Wikipédia com XPath
 
 # Semana 6
 
 - **desafio/desafio2.ipynb**
    - [x] Desafio: Raspador de diários
-   - [x] Resolução do desafio: Raspador de diários
+   - [ ] Resolução do desafio: Raspador de diários
 
 
 
