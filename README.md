@@ -89,7 +89,7 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [x] Desafio
 
 - **desafio_gabarito.ipynb**
-   - [ ] Resolução do desafio
+   - [x] Resolução do desafio
 
 # Semana 2
 
